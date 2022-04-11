@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="MaksyNLoader-cleaned-cleaned-Decrypted.exe" Options="991176" OutputFileName="5drip_loader.exe" WaterMarkName="Pitu7944#2711" LicenseDataFileName="5drip_loader.exe.vmp">
+        <Messages>
+            <Message Id="0">https://discord.gg/r5Tgbgmw7Q</Message>
+            <Message Id="1">https://discord.gg/r5Tgbgmw7Q</Message>
+            <Message Id="2">https://discord.gg/r5Tgbgmw7Q</Message>
+            <Message Id="3">https://discord.gg/r5Tgbgmw7Q</Message>
+        </Messages>
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="spoofer::.ctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="spoofer::button1_Click(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="spoofer::button2_Click(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="spoofer::Dispose(bool)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="unbantool::.ctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="unbantool::Dispose(bool)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="LoginForm::.ctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="LoginForm::checkBox1_CheckedChanged(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="LoginForm::checkBox2_CheckedChanged(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="LoginForm::Dispose(bool)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::.cctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_0()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_1(object)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_2()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_3(unsigned int8[])" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_4()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_5&lt;0&gt;(unsigned int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_6&lt;0&gt;(unsigned int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_7&lt;0&gt;(unsigned int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_8&lt;0&gt;(unsigned int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_9&lt;0&gt;(unsigned int32)" Options="0" CompilationType="1" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_10()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_11(object, class System.ResolveEventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;::smethod_12()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct0::method_0()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct0::method_1(class &lt;Module&gt;/Class0)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct1::.ctor(int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct1::method_0()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct1::method_1(class &lt;Module&gt;/Class0)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct1::method_2(class &lt;Module&gt;/Class0)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct1::smethod_0(valuetype &lt;Module&gt;/Struct0[], unsigned int32, class &lt;Module&gt;/Class0, int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class0::method_0(class System.IO.Stream)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class0::method_1()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class0::method_2()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class0::method_3(int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class0::.ctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1::.ctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1::method_0(unsigned int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1::method_1(int32, int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1::method_2(int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1::method_3(class System.IO.Stream, class System.IO.Stream)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1::method_4(class System.IO.Stream, class System.IO.Stream, int64, int64)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1::method_5(unsigned int8[])" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1::smethod_0(unsigned int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class2::method_0(unsigned int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class2::method_1()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class2::method_2(class &lt;Module&gt;/Class0, unsigned int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class2::.ctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3::method_0(int32, int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3::method_1()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3::method_2(unsigned int32, unsigned int8)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3::method_3(class &lt;Module&gt;/Class0, unsigned int32, unsigned int8)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3::method_4(class &lt;Module&gt;/Class0, unsigned int32, unsigned int8, unsigned int8)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3/Struct2::method_0()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3/Struct2::method_1()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3/Struct2::method_2(class &lt;Module&gt;/Class0)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class1/Class3/Struct2::method_3(class &lt;Module&gt;/Class0, unsigned int8)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class4::method_0(unsigned int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class4::method_1(class System.IO.Stream, bool)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class4::method_2()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class4::method_3()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class4::method_4(unsigned int32, unsigned int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class4::method_5(unsigned int8)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Class4::method_6(unsigned int32)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct3::method_0()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct3::method_1()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct3::method_2()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct3::method_3()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct3::method_4()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="&lt;Module&gt;/Struct3::method_5()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="spoofer::spoofer_Load(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="spoofer::button6_Click(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="spoofer::InitializeComponent()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="unbantool::unbantool_Load(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="unbantool::button2_Click(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="unbantool::button3_Click(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="unbantool::InitializeComponent()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Class5::get_ResourceManager_0()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Class5::get_CultureInfo_0()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Class5::set_CultureInfo_0(class System.Globalization.CultureInfo)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="MaksyNLoader.Properties.Settings::get_Default()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="MaksyNLoader.Properties.Settings::.ctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="MaksyNLoader.Properties.Settings::.cctor()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="LoginForm::Form1_Load(object, class System.EventArgs)" Options="0" CompilationType="2" />
+            <Procedure MapAddress="LoginForm::InitializeComponent()" Options="0" CompilationType="2" />
+            <Procedure MapAddress="Class6::Main()" Options="0" CompilationType="2" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager />
+</Document>
